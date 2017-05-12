@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E7925D501EC55190004612D3 /* ColorChanger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorChanger.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7925D501EC55190004612D3 /* Paletteer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Paletteer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7925D531EC55190004612D3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E7925D551EC55190004612D3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E7925D581EC55190004612D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +38,7 @@
 		E7925D471EC55190004612D3 = {
 			isa = PBXGroup;
 			children = (
-				E7925D521EC55190004612D3 /* ColorChanger */,
+				E7925D521EC55190004612D3 /* Paletteer */,
 				E7925D511EC55190004612D3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +46,12 @@
 		E7925D511EC55190004612D3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E7925D501EC55190004612D3 /* ColorChanger.app */,
+				E7925D501EC55190004612D3 /* Paletteer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E7925D521EC55190004612D3 /* ColorChanger */ = {
+		E7925D521EC55190004612D3 /* Paletteer */ = {
 			isa = PBXGroup;
 			children = (
 				E7925D531EC55190004612D3 /* AppDelegate.swift */,
@@ -61,15 +61,16 @@
 				E7925D5C1EC55190004612D3 /* LaunchScreen.storyboard */,
 				E7925D5F1EC55190004612D3 /* Info.plist */,
 			);
+			name = Paletteer;
 			path = ColorChanger;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E7925D4F1EC55190004612D3 /* ColorChanger */ = {
+		E7925D4F1EC55190004612D3 /* Paletteer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E7925D621EC55190004612D3 /* Build configuration list for PBXNativeTarget "ColorChanger" */;
+			buildConfigurationList = E7925D621EC55190004612D3 /* Build configuration list for PBXNativeTarget "Paletteer" */;
 			buildPhases = (
 				E7925D4C1EC55190004612D3 /* Sources */,
 				E7925D4D1EC55190004612D3 /* Frameworks */,
@@ -79,9 +80,9 @@
 			);
 			dependencies = (
 			);
-			name = ColorChanger;
+			name = Paletteer;
 			productName = ColorChanger;
-			productReference = E7925D501EC55190004612D3 /* ColorChanger.app */;
+			productReference = E7925D501EC55190004612D3 /* Paletteer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E7925D4B1EC55190004612D3 /* Build configuration list for PBXProject "ColorChanger" */;
+			buildConfigurationList = E7925D4B1EC55190004612D3 /* Build configuration list for PBXProject "Paletteer" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E7925D4F1EC55190004612D3 /* ColorChanger */,
+				E7925D4F1EC55190004612D3 /* Paletteer */,
 			);
 		};
 /* End PBXProject section */
@@ -285,7 +286,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E7925D4B1EC55190004612D3 /* Build configuration list for PBXProject "ColorChanger" */ = {
+		E7925D4B1EC55190004612D3 /* Build configuration list for PBXProject "Paletteer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E7925D601EC55190004612D3 /* Debug */,
@@ -294,13 +295,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E7925D621EC55190004612D3 /* Build configuration list for PBXNativeTarget "ColorChanger" */ = {
+		E7925D621EC55190004612D3 /* Build configuration list for PBXNativeTarget "Paletteer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E7925D631EC55190004612D3 /* Debug */,
 				E7925D641EC55190004612D3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

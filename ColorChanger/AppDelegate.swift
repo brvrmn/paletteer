@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ColorChanger
 //
-//  Created by Focused on 5/11/17.
+//  Created by MV Braverman on 5/11/17.
 //  Copyright © 2017 brvrmn.com. All rights reserved.
 //
 

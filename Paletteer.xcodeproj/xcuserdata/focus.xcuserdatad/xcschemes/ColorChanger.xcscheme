@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E7925D4F1EC55190004612D3"
-               BuildableName = "ColorChanger.app"
-               BlueprintName = "ColorChanger"
-               ReferencedContainer = "container:ColorChanger.xcodeproj">
+               BuildableName = "Paletteer.app"
+               BlueprintName = "Paletteer"
+               ReferencedContainer = "container:Paletteer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E7925D4F1EC55190004612D3"
-            BuildableName = "ColorChanger.app"
-            BlueprintName = "ColorChanger"
-            ReferencedContainer = "container:ColorChanger.xcodeproj">
+            BuildableName = "Paletteer.app"
+            BlueprintName = "Paletteer"
+            ReferencedContainer = "container:Paletteer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E7925D4F1EC55190004612D3"
-            BuildableName = "ColorChanger.app"
-            BlueprintName = "ColorChanger"
-            ReferencedContainer = "container:ColorChanger.xcodeproj">
+            BuildableName = "Paletteer.app"
+            BlueprintName = "Paletteer"
+            ReferencedContainer = "container:Paletteer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E7925D4F1EC55190004612D3"
-            BuildableName = "ColorChanger.app"
-            BlueprintName = "ColorChanger"
-            ReferencedContainer = "container:ColorChanger.xcodeproj">
+            BuildableName = "Paletteer.app"
+            BlueprintName = "Paletteer"
+            ReferencedContainer = "container:Paletteer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
